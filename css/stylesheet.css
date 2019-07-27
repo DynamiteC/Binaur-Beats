@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded|Nunito|Roboto+Slab|Source+Sans+Pro|Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Ubuntu');
 
-    /* font-family: 'Roboto Slab', serif;
+    /* font-family: 'Nunito', serif;
 
     font-family: 'BioRhyme Expanded', serif;
 
@@ -14,7 +14,7 @@
 
 body{
 
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Nunito', serif;
 	background-color: #DDD;
 	color: #202020;
 
@@ -43,7 +43,7 @@ body{
 .center-content {
   text-align: center;
   margin-top: 35px;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Nunito', sans-serif;
 
   margin-bottom: 35px;
 }
@@ -98,7 +98,7 @@ body{
 {
 	padding-left: 5px;
 	text-align: center;
-	font-family: "Roboto Slab",sans-serif;
+	font-family: "Nunito",sans-serif;
 }
 
 input[type=range] {
@@ -201,6 +201,6 @@ input[type=range]::-ms-track {
 {
   text-align: left;
   margin-top: 35px;
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Nunito', sans-serif;
   margin-bottom: 35px;
 }

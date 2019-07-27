@@ -1,0 +1,15 @@
+{
+  "name": "binaural-beats-web",
+  "version": "1.0.0",
+  "description": "What is Binaural Beats?\r   Well Binaural Beats is an auditory illusion perceived when two different pure-tone sine waves, both with frequencies lower than 1500 Hz, with less than a 40 Hz difference between them, are presented to a listener dichotically. Here i am going to generate Binaural beats because listening to binaural beats may exert an influence on both low frequency and high frequency components of heart rate variability, and may increase subjective feelings of relaxation.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DynamiteC/binaural-beats-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DynamiteC/binaural-beats-web/issues"
+  },
+  "homepage": "https://github.com/DynamiteC/binaural-beats-web#readme"
+}
